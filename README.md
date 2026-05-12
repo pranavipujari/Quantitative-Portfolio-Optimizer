@@ -1,7 +1,7 @@
 # Quantitative Portfolio Analyser & Optimizer
 
 A Python-based financial tool that implements **Modern Portfolio Theory (MPT)** to find optimal asset allocations. This project uses Monte Carlo simulations to identify the Efficient Frontier and maximize risk-adjusted returns (Sharpe Ratio).
-
+![Portfolio Analysis Dashboard](images/dashboard_preview.png)
 ## 🚀 Key Features
 * **Automated Data Pipeline:** Fetches real-time financial data via the `yfinance` API.
 * **Risk/Return Modeling:** Calculates annualized volatility and returns for multi-asset portfolios.
