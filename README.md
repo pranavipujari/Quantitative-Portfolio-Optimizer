@@ -1,1 +1,0 @@
-# Quantitative-Portfolio-Optimizer
