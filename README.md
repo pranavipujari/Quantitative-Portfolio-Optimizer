@@ -18,7 +18,7 @@ This was built as a beginner finance + Python project. No prior knowledge of eit
 ## The 4 charts
 
 **1. Efficient Frontier** — Scatter plot of all 4,000 random portfolios. Each dot is one possible way to split money across the 5 stocks. The green star marks the best portfolio (highest Sharpe Ratio). The pink diamond marks the least risky one.
-![chart](visuals/Efficient.Frontier.png)
+![chart](visuals/Efficient.Frontier.graph.png)
 
 **2. Sharpe Ratio bar chart** — Ranks each stock by its Sharpe Ratio (return divided by risk). Higher = better. The dashed line at 1.0 is the benchmark — stocks above it are performing well on a risk-adjusted basis.
 
